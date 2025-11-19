@@ -10,7 +10,7 @@
 🟢 Ecommerce para uma liveshop com personalização da UI e UX.  
 🟢 Automação de processo de cadastro de promoções na rotina 2323 do ERP Winthor.  
 🟢 Aplicativo web para gerenciamento das devoluções de clientes e gestão de transportes da Farmix Distribuidora [![Logística Farmix](https://img.shields.io/badge/Logística_Farmix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logistica.farmixon.com.br)  
-🟢 BI online para gestores, vendedores, televendas e parceiros da Farmix Distribuidora [![BI Farmix](https://img.shields.io/badge/Logística_Farmix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bi.farmix.com.br)
+🟢 BI online para gestores, vendedores, televendas e parceiros da Farmix Distribuidora [![BI Farmix](https://img.shields.io/badge/BI_Farmix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bi.farmix.com.br)
 
 ## Principais Habilidades
 
