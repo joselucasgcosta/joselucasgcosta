@@ -9,7 +9,7 @@
 🟢 Aplicativo intranet de controle de campanhas e brindes totalmente integrado a um banco de dados Oracle que alimenta o ERP Winthor da Totvs.  
 🟢 Ecommerce para uma liveshop com personalização da UI e UX.  
 🟢 Automação de processo de cadastro de promoções na rotina 2323 do ERP Winthor.  
-🟢 Aplicativo web para gerenciamento das devoluções de clientes e gestão de transportes da Farmix Distribuidora [🔗 acesse](https://logistica.farmixon.com.br)
+🟢 Aplicativo web para gerenciamento das devoluções de clientes e gestão de transportes da Farmix Distribuidora [![Logística Farmix](https://img.shields.io/badge/Logística_Farmix-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logistica.farmixon.com.br)
 
 ## Principais Habilidades
 
