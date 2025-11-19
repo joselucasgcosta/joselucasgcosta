@@ -1,6 +1,6 @@
 # Oi, eu sou o José Lucas! 🤝
 
-👨‍💻 Desenvolvedor Python full-stack
+👨‍💻 Desenvolvedor Python full-stack  
 📈 Escalabilidade | 🧹 Código limpo | 💫 Aplicativos atraentes
 
 ## Projetos recentes
