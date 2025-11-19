@@ -28,6 +28,5 @@ escalável e atraente.
 
 ## Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joselucasgcosta&show_icons=true&theme=default)\
 ![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselucasgcosta&layout=compact&theme=default)
