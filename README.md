@@ -1,13 +1,14 @@
-# Oi, eu sou o José Lucas!
+# Oi, eu sou o José Lucas! 🤝
 
-👨‍💻 Desenvolvedor Python full-stack focado no desenvolvimento limpo, escalável e atraente.
+👨‍💻 Desenvolvedor Python full-stack
+📈 Escalabilidade | 🧹 Código limpo | 💫 Aplicativos atraentes
 
 ## Projetos recentes
 
-🟠 Aplicativo web de coleta de assinaturas digitais para a campanha FxBlack da Farmix Distribuidora.
-🟠 Aplicativo intranet de controle de campanhas e brindes totalmente integrado a um banco de dados Oracle que alimenta o ERP Winthor da Totvs.
-🟠 Ecommerce para uma liveshop com personalização da UI e UX.
-🟠 Automação de processo de cadastro de promoções na rotina 2323 do ERP Winthor.
+- 🟠 Aplicativo web de coleta de assinaturas digitais para a campanha FxBlack da Farmix Distribuidora.
+- 🟠 Aplicativo intranet de controle de campanhas e brindes totalmente integrado a um banco de dados Oracle que alimenta o ERP Winthor da Totvs.
+- 🟠 Ecommerce para uma liveshop com personalização da UI e UX.
+- 🟠 Automação de processo de cadastro de promoções na rotina 2323 do ERP Winthor.
 
 ## Principais Habilidades
 
