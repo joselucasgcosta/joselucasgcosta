@@ -3,7 +3,7 @@
 👨‍💻 Desenvolvedor Python full-stack  
 📈 Escalabilidade | 🧹 Código limpo | 💫 Aplicativos atraentes
 
-## Projetos recentes
+## Principais Projetos
 
 🟢 Aplicativo web de coleta de assinaturas digitais para a campanha FxBlack da Farmix Distribuidora.  
 🟢 Aplicativo intranet de controle de campanhas e brindes totalmente integrado a um banco de dados Oracle que alimenta o ERP Winthor da Totvs.  
