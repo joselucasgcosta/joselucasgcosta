@@ -28,6 +28,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-00AEEF?style=for-the-badge&logo=mercadopago&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
 ## Como me encontrar
