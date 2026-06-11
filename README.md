@@ -1,7 +1,9 @@
 # Oi, eu sou o José Lucas! 🤝
 
 👨‍💻 Desenvolvedor Python full-stack  
-📈 Escalabilidade | 🧹 Código limpo | 💫 Aplicativos atraentes
+📈 Escalabilidade | 🧹 Código limpo | 💫 Aplicativos atraentes | 🤖 Automações Inteligentes  
+🔒 Desenvolvimento focado em segurança | 📱 IA de código assistida de forma ética e segura | 📖 Sempre estudando  
+
 
 ## Principais Projetos
 
