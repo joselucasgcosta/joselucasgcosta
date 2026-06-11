@@ -36,6 +36,6 @@
 
 ## Como me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/joselucasgcosta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.costa@samgae.com.br)
 
 
